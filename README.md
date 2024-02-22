@@ -1,6 +1,6 @@
 # Sample Hardhat Project
 
-Smart contract lotery wich use chainlink VRFv2 methods;
+*Smart contract lotery wich use chainlink VRFv2 methods;*
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
